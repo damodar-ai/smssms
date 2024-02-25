@@ -1,0 +1,31 @@
+{
+  "name": "smssms",
+  "version": "1.0.0",
+  "description": "A messenger",
+  "main": "sendSMS.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/damodar-ai/smssms.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  
+  "author": "Damodar Tiwari",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/damodar-ai/smssms/issues"
+  },
+  "homepage": "https://github.com/damodar-ai/smssms#readme",
+  "dependencies": {
+    "twilio": "^4.22.0"
+  }
+}
+
+
+
+
